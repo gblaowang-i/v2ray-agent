@@ -89,13 +89,13 @@
 - Latest Version【推荐】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/gblaowang-i/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 - shadowsocks 动态IP白名单模式【Beta】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/dev_ss/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/gblaowang-i/v2ray-agent/dev_ss/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 # 许可证
